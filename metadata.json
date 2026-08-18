@@ -1,0 +1,7 @@
+{
+  "name": "Chandan AI Assistant",
+  "description": "AI Personal Secretary and Call Screener for Chandan with English and Kannada language support, spam detection, live call simulation, and call summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
